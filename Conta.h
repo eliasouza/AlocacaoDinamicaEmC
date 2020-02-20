@@ -1,3 +1,15 @@
+/*
+*
+* Computer Science Section
+* Faculdades Integradas de Caratinga
+* Caratinga, MG, Brazil
+* Feb. 19, 2019
+* author: Elias Goncalves
+* email: falarcomelias@gmail.com
+* Licensed under the Apache License, Version 2.0
+*
+*/
+
 #ifndef CONTA_H_INCLUDED
 #define CONTA_H_INCLUDED
 

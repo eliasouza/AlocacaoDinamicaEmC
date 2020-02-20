@@ -1,9 +1,28 @@
+/*
+*
+* Computer Science Section
+* Faculdades Doctum de Caratinga
+* Caratinga, MG, Brazil
+* Feb. 20, 2020
+* author: Elias Goncalves
+* email: falarcomelias@gmail.com
+* Licensed under the Apache License, Version 2.0
+*
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include "Conta.h"
 
-int main()
-{
+int main(){
+    setlocale(LC_ALL, "Portuguese");
+	
+	/*
+	 * Para melhor utilização, add nesse programa um menu para 
+	 * informar ao usuário as opções que o programa implementa. 
+	 * Desenvolva casos de teste para cada função do programa.
+	 */
+     
     /* Testar
         Conta *criar( int n, double v );
         void liberar ( Conta *c );

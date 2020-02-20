@@ -1,3 +1,15 @@
+/*
+*
+* Computer Science Section
+* Faculdades Doctum de Caratinga
+* Caratinga, MG, Brazil
+* Feb. 20, 2020
+* author: Elias Goncalves
+* email: falarcomelias@gmail.com
+* Licensed under the Apache License, Version 2.0
+*
+*/
+
 #include "Conta.h"
 #include<stdlib.h>
 
